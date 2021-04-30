@@ -2,7 +2,8 @@
 
 Technology: React
 
-## Brief
-Add movies to a DB into Firebase
-Fetching the movies
-display movies
+## Features
+- Add movies to a DB into Firebase
+- Fetching the movies
+- Display movies
+
